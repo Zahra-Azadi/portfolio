@@ -1,6 +1,8 @@
 # portfolio 
 
-here there are sample projects I have done
+here there are sample projects I have done:
+
+for full project cntaning  Data wrangling and EDA and modeling for prediction of salary -----> salary_estimator_FULL_PROJECT
 
 for EDA  and Creating Maps and Visualizing Geospatial Data with python ----> us eda
 
