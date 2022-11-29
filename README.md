@@ -16,4 +16,3 @@ for Data wrangling and EDA with python ----> movie industry
 
 for overall coding experience with python-----> mercator map
 
-for excel---->excel sample project
