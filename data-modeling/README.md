@@ -1,3 +1,8 @@
+here there are some sample self defiend projects:
+Rain_predict for clasification type
+and Salary for continuous type predictions.
+
+
 full project contaning  Data wrangling , EDA and modeling for prediction of salary 
 #### Project Overview
   * Created a tool that estimates data science salaries (MAE ~ $ 15K) 
